@@ -2,9 +2,8 @@
 # A simple mobile app that introduces different Hong Kong Country Parks
 
 <h2>Features:</h2> 
-# The app included 33 country parks in Hong Kong, 
-<br/>
-# with their corresponding Names, Locations, track lengths, and recommended transportation routes.
+The app included 33 country parks in Hong Kong, 
+with their corresponding Names, Locations, track lengths, and recommended transportation routes.
 ![Track1](https://github.com/user-attachments/assets/16e2908a-c07e-4991-927d-c2eb2566e749)
 <br/>
 <br/>
