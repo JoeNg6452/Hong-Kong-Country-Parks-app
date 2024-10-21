@@ -4,7 +4,7 @@
 <h2>Features:</h2> 
 The app included 33 country parks in Hong Kong, <br/>
 
-with their corresponding Names, Locations, track lengths, recommended transportation routes, and a brief description.
+with their corresponding Names, Locations, track lengths, recommended transportation routes, and an introduction.
 ![Track1](https://github.com/user-attachments/assets/16e2908a-c07e-4991-927d-c2eb2566e749)
 <br/>
 <br/>
