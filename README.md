@@ -2,13 +2,14 @@
 # A simple mobile app that introduces different Hong Kong Country Parks
 
 <h2>Features:</h2> 
-The app included 33 country parks in Hong Kong, 
-with their corresponding Names, Locations, track lengths, and recommended transportation routes.
+<h3>The app included 33 country parks in Hong Kong, 
+<br/>
+with their corresponding Names, Locations, track lengths, and recommended transportation routes.</h3><br/>
 ![Track1](https://github.com/user-attachments/assets/16e2908a-c07e-4991-927d-c2eb2566e749)
 <br/>
 <br/>
 
-The app is connected to the Hong Kong Observatory API and Google Map API to provide accurate information.
+<h3>The app is connected to the Hong Kong Observatory API and Google Map API to provide accurate information.</h3>
 ![Track2](https://github.com/user-attachments/assets/fad1093a-9de9-4c7f-a153-a35a82a71866)
 <br/>
 <br/>
